@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lancamentos-filmes/static/css/main.4d04edb2.css",
+    "main.css": "/lancamentos-filmes/static/css/main.827d64e1.css",
     "main.js": "/lancamentos-filmes/static/js/main.68cad809.js",
     "index.html": "/lancamentos-filmes/index.html",
-    "main.4d04edb2.css.map": "/lancamentos-filmes/static/css/main.4d04edb2.css.map",
+    "main.827d64e1.css.map": "/lancamentos-filmes/static/css/main.827d64e1.css.map",
     "main.68cad809.js.map": "/lancamentos-filmes/static/js/main.68cad809.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d04edb2.css",
+    "static/css/main.827d64e1.css",
     "static/js/main.68cad809.js"
   ]
 }
